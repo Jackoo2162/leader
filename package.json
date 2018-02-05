@@ -1,0 +1,26 @@
+{
+  "name": "wonho",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "8.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jackoo2162/WONHO.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jackoo2162/WONHO/issues"
+  },
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "express": "^4.16.2"
+  }
+}
